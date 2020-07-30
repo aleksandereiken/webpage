@@ -5,12 +5,60 @@
     <link>/author/aleksander-eiken/</link>
       <atom:link href="/author/aleksander-eiken/index.xml" rel="self" type="application/rss+xml" />
     <description>Aleksander Eiken</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Aleksander Eiken</title>
       <link>/author/aleksander-eiken/</link>
     </image>
+    
+    <item>
+      <title>Bilio-enteric flow and plasma concentrations of bile acids after gastric bypass and sleeve gastrectomy.</title>
+      <link>/publication/2020-01-01_eiken2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_eiken2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High adherence and low dropout rate in a virtual clinical study of atopic dermatitis through weekly reward-based personalized genetic lifestyle reports.</title>
+      <link>/publication/2020-01-01_ali2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_ali2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Buttons in Combination with Mobile Application-Induced Objective and Subjective Effects in Patients with Atopic Dermatitis.</title>
+      <link>/publication/2020-01-01_joergensen2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_joergensen2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimize clinical trial recruitment with digital platforms</title>
+      <link>/publication/2019-01-01_katz2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-01_katz2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Islet Cell Hyperfunction, but Altered Gut-Islet Regulation and Postprandial Hypoglycemia in Glucose-Tolerant Patients 3 Years After Gastric Bypass Surgery.</title>
+      <link>/publication/2016-01-01_dirksen2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-01-01_dirksen2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid response to: The rise and rise of vitamin D testing</title>
+      <link>/publication/2012-01-01_eiken2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-01-01_eiken2012/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
